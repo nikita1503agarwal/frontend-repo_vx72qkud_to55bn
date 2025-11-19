@@ -20,7 +20,10 @@ export default function Hero() {
             Building sustainable, high‑performance spaces
           </h1>
           <p className="mt-6 text-blue-200/90 text-lg">
-            We blend creativity, technology, and strategic thinking to deliver Civil, IBMS, Fire, Façade, Networking & Server, Logo, MEP, Advertisement, Interior, AMC, and project consultancy solutions.
+            Flawless Venture Engineers LLP (FVEL) is a future-focused engineering company delivering comprehensive solutions in Civil, MEP, Interior, AMC, Carpentry, and Fabrication works. With expertise across residential, commercial, and industrial projects, we combine innovation, precision, and skilled execution to create sustainable and high‑performance spaces.
+          </p>
+          <p className="mt-4 text-blue-200/90 text-lg">
+            Rooted in quality, integrity, and excellence, we aim to provide end-to-end services—from planning and design to execution and maintenance—ensuring that every project adds long-term value and trust for our clients. <span className="block mt-3 text-blue-100 font-semibold">At FVEL, we don’t just build structures—we build Relationships, Reliability, and Results.</span>
           </p>
           <div className="mt-8 flex flex-col sm:flex-row gap-3">
             <a href="#contact" className="inline-flex items-center justify-center rounded-full bg-blue-500 px-6 py-3 text-white font-medium hover:bg-blue-600 transition-colors">
