@@ -7,7 +7,7 @@ export default function Contact() {
             <h2 className="text-3xl sm:text-4xl font-bold text-white">Let’s build something exceptional</h2>
             <p className="mt-3 text-blue-200/80">We operate across Gujarat, Rajasthan, and Madhya Pradesh. Share your requirements and we’ll get back within 24 hours.</p>
             <div className="mt-8 space-y-3 text-blue-100/90">
-              <p><span className="text-blue-300">Email:</span> hello@fvellp.com</p>
+              <p><span className="text-blue-300">Email:</span> info@ventureengineering.in</p>
               <p><span className="text-blue-300">Phone:</span> +91 98765 43210</p>
               <p><span className="text-blue-300">HQ:</span> Ahmedabad, Gujarat</p>
             </div>
