@@ -1,6 +1,28 @@
 import { Menu } from "lucide-react";
 import { useState } from "react";
 
+function BrandLogo() {
+  const [imgOk, setImgOk] = useState(true);
+  const logoUrl = import.meta.env.VITE_LOGO_URL || "/logo.svg"; // set VITE_LOGO_URL or replace public/logo.svg
+
+  if (imgOk) {
+    return (
+      <img
+        src={logoUrl}
+        alt="Flawless Venture Engineers LLP logo"
+        className="h-9 w-auto object-contain drop-shadow-md"
+        onError={() => setImgOk(false)}
+      />
+    );
+  }
+
+  return (
+    <div className="w-9 h-9 grid place-items-center rounded-lg bg-gradient-to-br from-blue-500 to-cyan-400 shadow-lg shadow-blue-500/20 text-slate-950 font-bold text-xs">
+      FVE
+    </div>
+  );
+}
+
 export default function Navbar() {
   const [open, setOpen] = useState(false);
   return (
@@ -8,7 +30,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="h-16 flex items-center justify-between">
           <a href="#home" className="flex items-center gap-3">
-            <div className="w-9 h-9 rounded-lg bg-gradient-to-br from-blue-500 to-cyan-400 shadow-lg shadow-blue-500/20" />
+            <BrandLogo />
             <div className="leading-tight">
               <div className="text-white font-semibold tracking-tight">Flawless Venture Engineers LLP</div>
               <div className="text-xs text-blue-300/80">Imagination • Integrity • Excellence</div>
