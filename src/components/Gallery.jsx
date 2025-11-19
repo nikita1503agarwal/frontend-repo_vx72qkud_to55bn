@@ -20,9 +20,10 @@ const images = [
     src: "https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=1600&auto=format&fit=crop",
     title: "Interior Design",
   },
+  // Updated to show Building Fire Line (sprinkler/hydrant piping)
   {
-    src: "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1600&auto=format&fit=crop",
-    title: "Fire & Safety",
+    src: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxJbnRlcmlvciUyMERlc2lnbnxlbnwwfDB8fHwxNzYzNTI5NTExfDA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80",
+    title: "Building Fire Line (Sprinkler & Hydrant)",
   },
 ];
 
