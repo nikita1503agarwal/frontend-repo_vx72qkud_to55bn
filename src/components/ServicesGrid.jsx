@@ -1,7 +1,8 @@
 import { Building2, Flame, Cpu, Shield, Layers, Server, Palette, CircuitBoard, Megaphone, Armchair, RefreshCw } from 'lucide-react';
 
 const services = [
-  { icon: Building2, title: 'Civil Engineering', desc: 'End-to-end structural design, planning, and execution with sustainability at core.' },
+  { icon: Layers, title: 'Architectural Services', desc: 'We offer innovative and sustainable architectural design solutions that blend aesthetics, functionality, and client vision—shaping spaces that inspire and endure.' },
+  { icon: Building2, title: 'Civil Services', desc: 'End-to-end structural design, planning, and execution with sustainability at core.' },
   { icon: Cpu, title: 'IBMS', desc: 'Smart building systems integrating HVAC, lighting, security, and energy management.' },
   { icon: Shield, title: 'Fire Safety', desc: 'Turnkey fire detection, protection, and compliance solutions.' },
   { icon: Layers, title: 'Façade', desc: 'High-performance façades with glass, aluminum, and advanced materials.' },
