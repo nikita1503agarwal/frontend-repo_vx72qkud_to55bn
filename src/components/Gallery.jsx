@@ -4,9 +4,10 @@ const images = [
     src: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?q=80&w=1600&auto=format&fit=crop",
     title: "Futuristic Architecture",
   },
+  // Updated: High-profile building IBMS / Smart Building control room visuals
   {
     src: "https://images.unsplash.com/photo-1554793000-245d3a3c2a51?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxGdXR1cmlzdGljJTIwQXJjaGl0ZWN0dXJlfGVufDB8MHx8fDE3NjM1MjgwMTB8MA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80",
-    title: "Smart Building Systems",
+    title: "High-profile IBMS (Smart Building)",
   },
   {
     src: "https://images.unsplash.com/photo-1753272691001-4d68806ac590?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxTbWFydCUyMEJ1aWxkaW5nJTIwU3lzdGVtc3xlbnwwfDB8fHwxNzYzNTI4MDEwfDA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80",
@@ -16,11 +17,12 @@ const images = [
     src: "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?q=80&w=1600&auto=format&fit=crop",
     title: "Structural Engineering",
   },
+  // Updated: Interior design focused on commercial building interiors
   {
-    src: "https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=1600&auto=format&fit=crop",
-    title: "Interior Design",
+    src: "https://images.unsplash.com/photo-1580982330720-bd5e0fed108b?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxTdHJ1Y3R1cmFsJTIwRW5naW5lZXJpbmd8ZW58MHwwfHx8MTc2MzUzMDAwMnww&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80",
+    title: "Interior Design (Commercial)",
   },
-  // Updated to show Building Fire Line (sprinkler/hydrant piping)
+  // Building Fire Line (sprinkler/hydrant piping)
   {
     src: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxJbnRlcmlvciUyMERlc2lnbnxlbnwwfDB8fHwxNzYzNTI5NTExfDA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80",
     title: "Building Fire Line (Sprinkler & Hydrant)",
