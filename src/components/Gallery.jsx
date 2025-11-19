@@ -17,10 +17,14 @@ const images = [
     src: "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?q=80&w=1600&auto=format&fit=crop",
     title: "Structural Engineering",
   },
-  // Updated: Interior design focused on commercial building interiors
+  // Replaced: Interior Design images with two new suitable, commercial-focused visuals
   {
-    src: "https://images.unsplash.com/photo-1580982330720-bd5e0fed108b?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxTdHJ1Y3R1cmFsJTIwRW5naW5lZXJpbmd8ZW58MHwwfHx8MTc2MzUzMDAwMnww&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80",
-    title: "Interior Design (Commercial)",
+    src: "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1600&q=80",
+    title: "Interior Design – Modern Corporate Office",
+  },
+  {
+    src: "https://images.unsplash.com/photo-1501183638710-841dd1904471?auto=format&fit=crop&w=1600&q=80",
+    title: "Interior Design – Hospitality Lobby",
   },
   // Building Fire Line (sprinkler/hydrant piping)
   {
