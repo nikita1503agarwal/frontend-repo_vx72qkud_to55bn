@@ -26,10 +26,10 @@ const images = [
     src: "https://images.unsplash.com/photo-1501183638710-841dd1904471?auto=format&fit=crop&w=1600&q=80",
     title: "Interior Design – Hospitality Lobby",
   },
-  // Building Fire Line (sprinkler/hydrant piping)
+  // Replaced: Building Fire Line with Furniture Work
   {
-    src: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxJbnRlcmlvciUyMERlc2lnbnxlbnwwfDB8fHwxNzYzNTI5NTExfDA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80",
-    title: "Building Fire Line (Sprinkler & Hydrant)",
+    src: "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=1600&q=80",
+    title: "Furniture Work",
   },
 ];
 
